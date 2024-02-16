@@ -9,7 +9,7 @@
 
 [Youtube pt-BR video][]
 
-Just an uncompromising race game in [GDevelop5][].
+Just an carefree race game in [GDevelop5][].
 
 Release at [Furry Race][].
 
